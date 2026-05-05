@@ -39,11 +39,6 @@ A dashboard-related project focused on Netflix Taiwan content analysis.
 
 Repository: [jinfer68/netflix-taiwan-dashboard](https://github.com/jinfer68/netflix-taiwan-dashboard)
 
-### Netflix Taiwan Dashboard 2
-An additional version or continuation of the Netflix Taiwan dashboard work.
-
-Repository: [jinfer68/netflix-taiwan-dashboard2](https://github.com/jinfer68/netflix-taiwan-dashboard2)
-
 ### Non Human Statement
 A public repository currently available on this profile.
 
