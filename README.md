@@ -39,20 +39,9 @@ A dashboard-related project focused on Netflix Taiwan content analysis.
 
 Repository: [jinfer68/netflix-taiwan-dashboard](https://github.com/jinfer68/netflix-taiwan-dashboard)
 
-### Non Human Statement
-A public repository currently available on this profile.
-
-Repository: [jinfer68/-non-human-statement-](https://github.com/jinfer68/-non-human-statement-)
 
 ---
 
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jinfer68&show_icons=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jinfer68&layout=compact&theme=default)
-
----
 
 ## Contact
 
