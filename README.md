@@ -57,8 +57,8 @@ Repository: [jinfer68/-non-human-statement-](https://github.com/jinfer68/-non-hu
 ## Contact
 
 - GitHub: [@jinfer68](https://github.com/jinfer68)
-- Email: `your-email@example.com`
-- Portfolio / Website: `https://your-website.example.com`
+- Email: jinfqwer@gmail.com
+- Portfolio / Website: 
 
 ---
 
